@@ -6,11 +6,11 @@ In this week's challenge the client has launched a test of user reviews, and nee
 ## Test Program Yield
 The user test, or "Vine", seemed to have almost no impact on the musical instrument section of the online store.
 
-![poor response](gitlink)
+![poor response](https://github.com/davidandcarr/vandcamp_mod16_bigdata/blob/sqone/images/vine_summ.png)
 
 The paid program only yielded 60 reviews from the users, seen in the calculation at the bottom of the screenshot above. This is opposed to the users who were presented no incentive for their reviews of the products, with the same calculation presented below.
 
-![control response](gitlink)
+![control response](https://github.com/davidandcarr/vandcamp_mod16_bigdata/blob/sqone/images/novine_summ.png)
 
 It would seem that despite the incentive, there are still far more helpful reviews received from non-paid users. Or at least, in the musical instrument section of the online platform. 
 
@@ -18,6 +18,6 @@ For our second test, the yield of 5-star reviews, the response is a bit of a tos
 
 However, the significance of these Vine-related conversions quickly dims in light of the opposing group's numbers. Unpaid five-star reviews consist of more than half of all reviews for products, as seen in the calculations below.
 
-![full summary](gitlink)
+![full summary](https://github.com/davidandcarr/vandcamp_mod16_bigdata/blob/sqone/images/tot_summ.png)
 
 I am reticent to believe that the two objectives above were accomplished in these tests, considering the small response size as well as insignificant change to the reviews as a whole. However, I believe there is a third output of this test that is still beneficial to the platform: user experience. By creating a financial benefit that is seemingly unique to the shopper, the customer is nearly guaranteed to return for more purchases. That said, even if the test did not yield significant results for this product group, I would consider it a success.
